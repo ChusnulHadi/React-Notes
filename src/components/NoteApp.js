@@ -16,7 +16,6 @@ class NoteApp extends React.Component {
         this.searchNotes = this.searchNotes.bind(this);
         this.deleteNotes = this.deleteNotes.bind(this);
         this.archiveNotes = this.archiveNotes.bind(this);
-
     }
 
     componentDidMount() {
